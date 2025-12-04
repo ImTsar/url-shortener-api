@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShortener", "URLShortener.csproj", "{AAB6E5E0-46C8-4E17-A23E-6DC1A92D60BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShortener.Tests", "..\URLShortener.Tests\URLShortener.Tests.csproj", "{C1977BFE-972D-41F8-BF85-0166DDFC8EDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB6E5E0-46C8-4E17-A23E-6DC1A92D60BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB6E5E0-46C8-4E17-A23E-6DC1A92D60BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB6E5E0-46C8-4E17-A23E-6DC1A92D60BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB6E5E0-46C8-4E17-A23E-6DC1A92D60BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1977BFE-972D-41F8-BF85-0166DDFC8EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1977BFE-972D-41F8-BF85-0166DDFC8EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1977BFE-972D-41F8-BF85-0166DDFC8EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1977BFE-972D-41F8-BF85-0166DDFC8EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C76641-5911-4FBB-8B38-E24D5A426FE7}
+	EndGlobalSection
+EndGlobal
